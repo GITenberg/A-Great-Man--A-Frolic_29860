@@ -1,0 +1,33 @@
+_repo: A-Great-Man--A-Frolic_29860
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, E. Arnold
+    - Bennett, Enoch Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: A Great Man (1904), which Bennett subtitled " A Frolic, " gives his humorous
+  talent full rein. The novel is a hilarious character study of Henry Shakespeare
+  Knight from his humble beginnings to his assent to the pinnacle of fame as a popular
+  writer.
+gutenberg_issued: '2009-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: 'A Great Man: A Frolic'
+url: http://www.gutenberg.org/ebooks/29860
